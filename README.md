@@ -23,10 +23,10 @@
 ## 🏆 GSSoC 2026 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-ambassador.png.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-contributor.png.png" width="180"/>
   <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-ambassador.png.png" width="180"/>
   <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/
-gssoc-open-source.png.png" width="180"/>
+gssoc-contributor.png.png" width="180"/>
 </p>
 
 🚀 Selected for GirlScript Summer of Code 2026  
