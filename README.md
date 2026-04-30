@@ -20,6 +20,16 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jayaram-max&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+## 🏆 GSSoC 2026 Achievements
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-contributor.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-ambassador.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-open-source.png" width="180"/>
+</p>
+
+🚀 Selected for GirlScript Summer of Code 2026  
+💻 Contributed to open-source projects and collaborated with developers  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jayaram-max&icon=2&color=0)](https://visitcount.itsvg.in)
