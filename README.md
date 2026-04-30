@@ -23,7 +23,7 @@
 ## 🏆 GSSoC 2026 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/contributor.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-contributor.png" width="180"/>
   <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-ambassador.png" width="180"/>
   <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-open-source.png" width="180"/>
 </p>
