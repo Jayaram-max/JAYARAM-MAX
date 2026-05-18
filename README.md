@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>→ AI/ML projects using Python (prediction systems, chatbots)<br><br>👯 I’m looking to collaborate on<br>→ AI/ML projects, web + AI integrations, open-source contributions<br><br>🤝 I’m looking for help with<br>→ Deep Learning, model deployment, real-world AI systems<br><br>🌱 I’m currently learning<br>→ Python, Data Structures & Algorithms (DSA), Machine Learning, FastAPI<br><br>💬 Topics I focus on<br>→ Python, DSA, beginner ML, building real-world projects<br><br>⚡ Fun fact<br>→ I enjoy vibe coding and turning ideas into real projects quickly 🚀
+🔭 I’m currently working on<br>→ AI/ML projects using Python (prediction systems, chatbots)<br><br>👯 I’m looking to collaborate on<br>→ AI/ML projects, web + AI integrations, open-source contributions<br><br>🤝 I’m looking for help with<br>→ Deep Learning, model deployment, real-world AI systems<br><br>🌱 I’m currently learning<br>→ Python, Data Structures & Algorithms (DSA), Machine Learning, FastAPI , Cloudcomputing<br><br>💬 Topics I focus on<br>→ Python, DSA, beginner ML, building real-world projects<br><br>⚡ Fun fact<br>→ I enjoy vibe coding and turning ideas into real projects quickly 🚀
 
 
 ## 🌐 Socials:
