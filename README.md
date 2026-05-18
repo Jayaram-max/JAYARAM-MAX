@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jayaram-max&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 ## 🏆 GSSoC 2026 Achievements
 
-<p align="center">
+<p align="Left">
   <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-contributor.png.png" width="180"/>
   <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-ambassador.png.png" width="180"/>
   <img src="https://raw.githubusercontent.com/jayaram-max/jayaram-max/main/gssoc-open-source.png.png" width="180"/>
